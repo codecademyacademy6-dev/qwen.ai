@@ -1,0 +1,459 @@
+# Phone Call Scripts - Plumber HVAC Contractor Comms Kit
+
+## Table of Contents
+1. Initial Inquiry Response
+2. Appointment Scheduling
+3. Appointment Confirmation
+4. Pre-Arrival Notification
+5. Post-Service Follow-Up
+6. Payment Collection
+7. Maintenance Plan Sales
+8. Review Request
+9. Emergency Response
+10. Handling Complaints
+
+---
+
+## 1. INITIAL INQUIRY RESPONSE
+
+### Script for New Customer Calls
+
+**Receptionist/CSR:**
+"Thank you for calling [COMPANY_NAME], this is [Your Name]. How can I help you today?"
+
+[Listen to customer's issue]
+
+"I understand completely. Let me get some quick information so we can get you taken care of."
+
+**Information Gathering:**
+- "What's your full name, please?"
+- "What's the service address?"
+- "Best phone number to reach you?"
+- "Email address for confirmations?"
+- "Is this a house, apartment, or business?"
+- "How long have you been experiencing this issue?"
+- "Have you had any work done on this system before?"
+
+**Issue Qualification:**
+"Let me make sure I understand—you're experiencing [summarize issue]. Is that correct?"
+
+**Scheduling:**
+"We can definitely help with that. Our technician [Name] has availability:
+- [Option 1: Day/Time]
+- [Option 2: Day/Time]
+- [Option 3: Day/Time]
+
+Which works best for you?"
+
+**Price Expectation Setting:**
+"Just so you know, our service call fee is $[X], which includes diagnosis and a written estimate. If you choose to proceed with repairs, that fee is applied toward your total. Does that work for you?"
+
+**Confirmation:**
+"Perfect! You're all set for [Day, Date] between [Time Window]. Our technician will call about 15-30 minutes before arriving. You'll also receive a text and email confirmation shortly.
+
+Anything else I can help you with today?"
+
+**Closing:**
+"Thank you for choosing [COMPANY_NAME], [Customer Name]. We look forward to serving you!"
+
+---
+
+## 2. APPOINTMENT SCHEDULING
+
+### Booking Script
+
+**Opening:**
+"Hi [Customer Name], this is [Your Name] from [COMPANY_NAME]. I'm calling to schedule your [service type]."
+
+**Availability Check:**
+"What days and times typically work best for you? We're available [give general availability]."
+
+**Offering Specific Slots:**
+"I have these openings:
+- [Date] at [Time]
+- [Date] at [Time]
+- [Date] at [Time]
+
+Do any of those work for you?"
+
+**If Customer Needs Different Time:**
+"No problem. What days/times are better for you? Let me check what we can do."
+
+**Confirming Details:**
+"Great, I've got you scheduled for:
+- Date: [Day, Date]
+- Time Window: [Start] to [End]
+- Service: [Type]
+- Address: [Confirm address]
+- Phone: [Confirm number]
+
+Is there anything specific you'd like us to know before we arrive? Gate codes, pets, preferred entrance, etc.?"
+
+**Preparation Instructions:**
+"Before we arrive, please:
+- [Specific instruction based on service]
+- Make sure someone 18+ will be home
+- Clear access to [relevant area]
+
+You'll receive a confirmation text/email with all these details."
+
+**Reminder Explanation:**
+"We'll send you a reminder [when], and the technician will call 15-30 minutes before arrival.
+
+Our cancellation policy is [policy details]. Just give us a call if you need to reschedule."
+
+**Closing:**
+"Excellent! We'll see you on [Day]. Thank you, [Customer Name]!"
+
+---
+
+## 3. APPOINTMENT CONFIRMATION
+
+### Confirmation Call Script (Day Before)
+
+**Opening:**
+"Hi [Customer Name], this is [Your Name] from [COMPANY_NAME]. How are you today?"
+
+**Purpose:**
+"I'm calling to confirm your appointment tomorrow, [Day, Date], between [Time Window] for [Service Type]. Does that still work for you?"
+
+**If Confirmed:**
+"Perfect! Just a few quick reminders:
+- Our technician [Name] will call 15-30 minutes before arriving
+- The visit should take approximately [X] hours
+- Please make sure [preparation instruction]
+
+Is there anything you'd like us to know before we arrive? Any access codes, gate entries, or special considerations?"
+
+[Listen and note any special instructions]
+
+**If Reschedule Needed:**
+"No problem at all. Let me find another time that works better..."
+
+[Reschedule using appointment scheduling script]
+
+**Closing:**
+"Great, we've got everything noted. If anything changes on your end, just give us a call at [PHONE_NUMBER]. 
+
+We look forward to seeing you tomorrow! Thanks again, and have a great day!"
+
+---
+
+## 4. PRE-ARRIVAL NOTIFICATION
+
+### Technician Calling Ahead Script
+
+**Opening:**
+"Hi [Customer Name], this is [Technician Name] with [COMPANY_NAME]. I'm the technician assigned to your service today."
+
+**ETA Notification:**
+"I wanted to let you know I'm running [on schedule/ahead/behind] and expect to arrive at your location in approximately [X] minutes, around [specific time]. Does that still work for you?"
+
+**Quick Verification:**
+"Just to confirm, you called about [brief description of issue]. Is there anything else I should know about before I arrive?"
+
+**Special Instructions:**
+"Any special parking instructions, gate codes, or should I use a particular entrance?"
+
+**Closing:**
+"Perfect. I'll see you in about [X] minutes. My vehicle is a [description]. See you soon!"
+
+---
+
+## 5. POST-SERVICE FOLLOW-UP
+
+### Satisfaction Check Call (2-3 Days After)
+
+**Opening:**
+"Hi [Customer Name], this is [Your Name] from [COMPANY_NAME]. How are you doing today?"
+
+**Purpose:**
+"I'm calling to follow up on the [service performed] we completed at your home on [date]. [Technician Name] was your technician, and I wanted to personally check that everything is working well for you."
+
+[Pause for response]
+
+**If Satisfied:**
+"That's wonderful to hear! I'm so glad we could resolve that for you.
+
+I also wanted to share a couple quick tips to keep things running smoothly...
+[Share 1-2 relevant maintenance tips]
+
+And just so you know, your work is covered under our [warranty details]. Save any paperwork we left with you."
+
+**Review Request:**
+"One more thing—if you were happy with our service, would you consider leaving us a quick Google review? It really helps our local business. I can text you the link if that's easy?"
+
+[If yes, send link. If no, no problem.]
+
+**Future Service:**
+"Also, I wanted to mention that [seasonal reminder or maintenance suggestion]. We'd be happy to get you on the schedule when the time is right."
+
+**If Issue Persists:**
+"I'm sorry to hear that's still not quite right. Let me get some details so we can make this right..."
+
+[Document issue, schedule return visit if needed]
+
+**Closing:**
+"Anything else I can help you with today? Great! Thanks again for choosing [COMPANY_NAME]. We're always here if you need us. Have a wonderful day!"
+
+---
+
+## 6. PAYMENT COLLECTION
+
+### Collecting Payment Over Phone
+
+**Opening:**
+"Hi [Customer Name], this is [Your Name] from [COMPANY_NAME]'s billing department. How are you today?"
+
+**Purpose:**
+"I'm calling regarding invoice #[Number] for the [service] we completed on [date]. The balance of $[Amount] was due on [date], and I wanted to check if everything is OK."
+
+[Pause for response]
+
+**If They Forgot:**
+"No problem at all—it happens to everyone! Would you like to take care of that over the phone now? I can process a credit card payment, or I can send you a link to pay online—whichever is easier."
+
+**Processing Payment:**
+"Great! I'll need:
+- Card number
+- Expiration date
+- CVV code
+- Billing zip code
+
+[Process payment]
+
+Perfect! Your payment of $[Amount] has been processed. You'll receive a receipt via email/text shortly. Is there anything else I can help you with?"
+
+**If Financial Hardship:**
+"I appreciate you sharing that. Let me see what options we have available...
+
+[Discuss payment plan if authorized]
+
+Here's what I can offer: [terms]. Would that work for you?"
+
+**If Dispute:**
+"I understand your concern. Let me get more details so we can resolve this. Can you tell me specifically what the issue is?"
+
+[Document and escalate if needed]
+
+**Closing:**
+"Great! So to confirm, you'll [action item] by [date]. Thank you, [Customer Name]. We appreciate your business!"
+
+---
+
+## 7. MAINTENANCE PLAN SALES
+
+### Post-Service Maintenance Plan Pitch
+
+**Opening:**
+"[Customer Name], before I head out, I wanted to mention something important..."
+
+**Observation:**
+"I noticed [observation about system condition—age, wear, potential issues]. This is exactly why we recommend regular maintenance."
+
+**Introducing the Plan:**
+"Let me show you our maintenance plan options..."
+
+[Pull out tablet/brochure]
+
+**Value Proposition:**
+"Most customers find the [recommended tier] gives them the best value. Here's why:
+- [Benefit 1 specific to their situation]
+- [Benefit 2]
+- [Benefit 3]
+
+Think of it this way—you've got two choices:
+1. Pay $[X]/year for preventive care
+2. Potentially pay $[much larger amount] later for emergency repairs
+
+Which sounds better to you?"
+
+**Handling Common Objections:**
+
+*"It's too expensive"*
+→ "I understand budget is a concern. Let me ask: what would a weekend emergency call cost? Usually $450-600 just for diagnosis. This plan is $[X] for the ENTIRE year, plus discounts. One avoided emergency pays for several years."
+
+*"My system is new"*
+→ "Actually, new systems benefit MOST from maintenance. It keeps your warranty valid, maintains efficiency from day one, and catches installation issues early. Think of it as insurance on your investment."
+
+*"I'll just call when something breaks"*
+→ "That's certainly an option. Though most folks find that breakdowns happen at the worst times—holidays, weekends, extreme weather. Plus, emergency rates are 2-3x higher. Members skip those fees entirely."
+
+**Closing:**
+"Based on what I've seen today, I really think the [Plan Name] makes sense. At $[X]/year, that breaks down to just $[monthly]/month—less than most people spend on coffee.
+
+Should I go ahead and get you enrolled? It only takes a couple minutes."
+
+[If yes, collect info and confirm first appointment]
+
+[If hesitant:]
+"No pressure at all. Think it over, and here's a brochure with all the details. The special offer I mentioned is good until [date]. Feel free to call if you have questions!"
+
+---
+
+## 8. REVIEW REQUEST
+
+### Phone Request for Review
+
+**Opening:**
+"Hi [Customer Name], this is [Your Name] from [COMPANY_NAME]. How's everything working since we completed your [service]?"
+
+[Listen for satisfaction confirmation]
+
+**The Ask:**
+"That's wonderful to hear! I'm so glad [Technician Name] took good care of you.
+
+[Customer Name], I'm calling with a small favor to ask. As a local business, we rely heavily on reviews from satisfied customers like you. Would you be willing to take 2 minutes to share your experience on Google?"
+
+**If Yes:**
+"Oh, that's fantastic! Thank you so much. I can text or email you the direct link—it'll take you straight to the review page. Which is easier for you?"
+
+[Send link immediately]
+
+"Great! Just click that link, rate us with the stars, and write whatever you feel comfortable sharing. Even a sentence or two helps tremendously."
+
+**If Hesitant:**
+"No problem at all! I completely understand. If you change your mind, the link is [website/review]. Either way, thank you for being a valued customer."
+
+**Referral Mention:**
+"One more thing—we also have a referral program. If you know anyone who needs our services, just have them mention your name when they call, and you'll BOTH receive $50 off your next service. There's no limit!"
+
+**Closing:**
+"Anything else we can help you with today? Thanks again, [Customer Name]. We appreciate you!"
+
+---
+
+## 9. EMERGENCY RESPONSE
+
+### Emergency Call Intake Script
+
+**Opening:**
+"[COMPANY_NAME] Emergency Line, this is [Your Name]. How can I help you?"
+
+[Listen to emergency description]
+
+**Empathy & Reassurance:**
+"I understand completely, [Customer Name]. That's definitely something we need to address right away. The good news is we have technicians available and can get someone to you."
+
+**Safety Assessment:**
+"Before we dispatch, let me make sure you're safe:"
+
+[Ask safety questions based on emergency type]
+
+**For Water Issues:**
+- "Is water actively flooding anywhere?"
+- "Have you located your main water shut-off?"
+- "Is there any electrical equipment near the water?"
+
+**For Gas Issues:**
+- "Do you smell gas right now?"
+- [If yes] "Please step outside immediately. Don't operate any electrical switches."
+
+**For No Heat (Winter):**
+- "Do you have vulnerable individuals in the home? Elderly, infants, or anyone with health conditions?"
+- "We'll prioritize accordingly."
+
+**Dispatch Information:**
+"OK, here's what's happening next:
+
+Our technician [Name] will be heading your way. Your ETA is approximately [time], so expect arrival between [window]."
+
+**Important Disclosures:**
+"A few important things to know:
+
+1. EMERGENCY PRICING: Our after-hours emergency rate is $[X] for the service call, which includes diagnosis. This is separate from regular business hours pricing, and we'll provide a full estimate before any work begins.
+
+2. WHILE YOU WAIT: Here's what you can do right now:
+   [Specific mitigation steps based on emergency]
+
+3. WHEN WE ARRIVE: [Technician Name] will call about 15 minutes before arrival. They'll assess the situation, explain your options, and provide pricing before starting any work."
+
+**Questions:**
+"Do you have any questions for me right now?"
+
+**Confirmation:**
+"Great. You should receive a text confirmation shortly with all these details, plus a link to track our technician's arrival.
+
+We're on our way, [Customer Name]. We'll get this resolved for you."
+
+---
+
+## 10. HANDLING COMPLAINTS
+
+### Complaint Resolution Script
+
+**Opening:**
+"Hi [Customer Name], this is [Your Name], [Title] at [COMPANY_NAME]. I understand you had some concerns about your recent service, and I wanted to speak with you personally."
+
+**Listen Actively:**
+"Please tell me what happened. I want to understand everything from your perspective."
+
+[Let them speak without interruption. Take notes.]
+
+**Empathize:**
+"I completely understand why that would be frustrating, [Customer Name]. That's not the experience we want for our customers, and I apologize."
+
+**Clarify:**
+"Let me make sure I understand correctly:
+- [Summarize point 1]
+- [Summarize point 2]
+- [Summarize point 3]
+
+Is that accurate?"
+
+**Take Responsibility:**
+"You're absolutely right, and we take full responsibility. Here's what I'm going to do to make this right..."
+
+**Propose Solution:**
+[Offer appropriate remedy based on situation]
+- "I'd like to send our senior technician back out at no charge to..."
+- "I'm going to refund the $[X] for..."
+- "Let me personally oversee..."
+
+**Timeline:**
+"I can have this resolved by [specific timeframe]. Does that work for you?"
+
+**Follow-Up:**
+"I'll personally call you on [day/time] to make sure everything is resolved to your satisfaction. You can also reach me directly at [direct line] if you need anything before then."
+
+**Closing:**
+"[Customer Name], thank you for bringing this to our attention. We value your business, and I'm committed to making this right. Is there anything else I can help you with today?"
+
+---
+
+## GENERAL PHONE BEST PRACTICES
+
+### Tone Guidelines
+- Smile while talking (it comes through in your voice)
+- Speak clearly and at moderate pace
+- Use the customer's name throughout the call
+- Match their energy level (calm for emergencies, enthusiastic for sales)
+- Never interrupt
+
+### Active Listening
+- Use verbal nods ("I see," "I understand," "Go on")
+- Paraphrase to confirm understanding
+- Take notes during the call
+- Don't prepare your response while they're still talking
+
+### Holding Protocol
+- "May I place you on hold for about [X] minutes while I [reason]?"
+- Wait for confirmation before placing on hold
+- Check back every 60-90 seconds
+- Thank them for holding when you return
+
+### Transferring Calls
+- "Let me connect you with [Name/Department] who can help you with that."
+- "Would you mind if I transfer you?"
+- Explain the situation to the receiving party before transferring
+- Stay on the line until the transfer is complete
+
+### Voicemail Script
+"Hi [Customer Name], this is [Your Name] from [COMPANY_NAME]. I'm calling regarding [brief purpose]. You can reach me at [phone number] between [hours]. Or I'll try you again [when]. Thank you!"
+
+### Call Closing
+Always confirm:
+- Next steps
+- Who does what by when
+- How they can reach you if needed
+- Thank them for their time

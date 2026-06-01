@@ -1,0 +1,865 @@
+# Email Templates - Plumber HVAC Contractor Comms Kit
+
+## Table of Contents
+1. Welcome/New Customer
+2. Estimate/Quote Submission
+3. Appointment Confirmation
+4. Pre-Service Preparation
+5. Post-Service Thank You
+6. Invoice/Payment Reminder
+7. Maintenance Plan Offer
+8. Seasonal Maintenance Reminder
+9. Review Request
+10. Re-Engagement (Lost Customers)
+
+---
+
+## 1. WELCOME / NEW CUSTOMER
+
+### Subject: Welcome to [COMPANY_NAME]! Here's What to Expect
+
+```
+Hi [Customer Name],
+
+Welcome to the [COMPANY_NAME] family! We're thrilled you've chosen us 
+for your plumbing/HVAC needs.
+
+═══════════════════════════════════════════════════
+WHAT SETS US APART
+═══════════════════════════════════════════════════
+
+✓ Licensed, bonded, and insured technicians
+✓ Upfront pricing—no surprises
+✓ 100% satisfaction guarantee
+✓ 24/7 emergency service available
+✓ Background-checked, uniformed professionals
+✓ Respectful of your home (we use shoe covers!)
+
+═══════════════════════════════════════════════════
+YOUR FIRST VISIT
+═══════════════════════════════════════════════════
+
+When our technician arrives, you can expect:
+
+1. A thorough diagnosis of your issue
+2. Clear explanation in plain language (no jargon!)
+3. Written estimate before any work begins
+4. Quality workmanship with warranty coverage
+5. Complete cleanup—we leave your space spotless
+6. Digital service report sent to your email
+
+═══════════════════════════════════════════════════
+STAY CONNECTED
+═══════════════════════════════════════════════════
+
+📞 Save our number: [PHONE_NUMBER]
+💾 Download our app: [App Link]
+📘 Follow us: [Social Media Links]
+🌐 Visit: [WEBSITE]
+
+Questions? Reply anytime or call us directly. We're 
+here to help!
+
+Warm regards,
+
+The Team at [COMPANY_NAME]
+[PHONE_NUMBER] | [EMAIL_ADDRESS]
+
+P.S. Mention this email at your next service and 
+receive $25 off any non-emergency repair!
+```
+
+---
+
+## 2. ESTIMATE / QUOTE SUBMISSION
+
+### Subject: Your Estimate from [COMPANY_NAME] - Valid Until [Date]
+
+```
+Dear [Customer Name],
+
+Thank you for allowing us to assess your [project/repair need]. 
+Based on our inspection, we've prepared the attached detailed 
+estimate for your review.
+
+═══════════════════════════════════════════════════
+SUMMARY
+═══════════════════════════════════════════════════
+
+Estimate #: [Number]
+Prepared For: [Customer Name]
+Property: [Address]
+Valid Through: [Date]
+
+Recommended Solution: [Brief description]
+Total Investment: $[Amount]
+
+[Attach full estimate PDF]
+
+═══════════════════════════════════════════════════
+WHY THIS SOLUTION?
+═══════════════════════════════════════════════════
+
+We recommend this approach because:
+• [Reason 1 specific to their situation]
+• [Reason 2]
+• [Reason 3]
+
+Alternative options are included in the attached 
+document if you'd like to explore different price 
+points.
+
+═══════════════════════════════════════════════════
+NEXT STEPS
+═══════════════════════════════════════════════════
+
+Ready to proceed? Simply:
+1. Sign the estimate (digitally or print/sign/scan)
+2. Reply to this email with the signed copy
+3. OR call us at [PHONE_NUMBER]
+4. OR click here to approve online: [Link]
+
+Once approved, we'll contact you within 24 hours 
+to schedule your service.
+
+═══════════════════════════════════════════════════
+QUESTIONS?
+═══════════════════════════════════════════════════
+
+Need clarification on anything? Want to discuss 
+alternatives? Just reply or give us a call. We're 
+happy to walk through every line item.
+
+Financing options available—ask us for details!
+
+We look forward to working with you!
+
+Best regards,
+
+[Your Name]
+[Title]
+[COMPANY_NAME]
+[PHONE_NUMBER]
+
+─────────────────────────────────────────────────────
+No pressure, no obligation. We're here when you're ready.
+```
+
+---
+
+## 3. APPOINTMENT CONFIRMATION
+
+### Subject: ✓ Confirmed: Your [COMPANY_NAME] Appointment on [Date]
+
+```
+Hi [Customer Name],
+
+Great news! Your service appointment is confirmed.
+
+═══════════════════════════════════════════════════
+APPOINTMENT DETAILS
+═══════════════════════════════════════════════════
+
+📅 Date: [Day of Week], [Month Day, Year]
+⏰ Time: [Arrival Window]
+🔧 Service: [Service Type]
+👨‍🔧 Technician: [Technician Name]
+⏱️ Estimated Duration: [X] hours
+
+📍 Location: [Service Address]
+
+═══════════════════════════════════════════════════
+BEFORE WE ARRIVE
+═══════════════════════════════════════════════════
+
+To help us serve you efficiently:
+
+✓ Clear access to [specific area]
+✓ Secure pets in a separate area
+✓ Have [relevant info] ready
+✓ Ensure someone 18+ will be present
+
+═══════════════════════════════════════════════════
+WHAT TO EXPECT
+═══════════════════════════════════════════════════
+
+1. Technician calls 15-30 min before arrival
+2. Thorough diagnosis and explanation
+3. Written estimate before work begins
+4. Quality repair/installation
+5. Testing and cleanup
+6. Digital service report via email/text
+
+═══════════════════════════════════════════════════
+NEED TO RESCHEDULE?
+═══════════════════════════════════════════════════
+
+Life happens! If you need to change your appointment:
+• Call: [PHONE_NUMBER]
+• Text: [PHONE_NUMBER]
+• Email: [EMAIL_ADDRESS]
+• Online: [Scheduling Link]
+
+We ask for at least 2 hours notice when possible.
+
+═══════════════════════════════════════════════════
+
+You'll receive a text reminder tomorrow and another 
+2 hours before your appointment window.
+
+Questions before your visit? We're here to help!
+
+Thank you for choosing [COMPANY_NAME]!
+
+Warm regards,
+
+The Team at [COMPANY_NAME]
+[PHONE_NUMBER] | [EMAIL_ADDRESS]
+```
+
+---
+
+## 4. PRE-SERVICE PREPARATION
+
+### Subject: Getting Ready for Your [COMPANY_NAME] Visit Tomorrow
+
+```
+Hi [Customer Name],
+
+Quick note to help you prepare for our visit tomorrow!
+
+═══════════════════════════════════════════════════
+REMINDER
+═══════════════════════════════════════════════════
+
+📅 Tomorrow: [Day, Date]
+⏰ Time Window: [Start] - [End]
+🔧 Service: [Type]
+
+═══════════════════════════════════════════════════
+PREPARATION CHECKLIST
+═══════════════════════════════════════════════════
+
+For [Service Type], please:
+
+[Customize based on service:]
+
+HVAC Service:
+□ Clear 3-ft access around all vents/returns
+□ Remove items from around thermostat
+□ Clear access to outdoor condenser unit
+□ Note any specific rooms with issues
+
+Plumbing Service:
+□ Clear access under sinks
+□ Move items away from water heater
+□ Locate main water shut-off
+□ Identify all problem areas
+
+Water Heater:
+□ Clear 3-ft access around heater
+□ Remove stored items nearby
+□ Note any unusual sounds or leaks
+
+Drain Cleaning:
+□ Clear area around access points
+□ Note which fixtures are affected
+□ Avoid using affected drains before arrival
+
+General:
+□ Secure pets
+□ Have gate codes/access info ready
+□ Ensure someone 18+ will be home
+□ Clear parking space for our vehicle if possible
+
+═══════════════════════════════════════════════════
+TECHNICIAN INFO
+═══════════════════════════════════════════════════
+
+Your technician: [Name]
+Vehicle: [Description]
+Direct contact: [Phone Number]
+
+They'll call 15-30 minutes before arriving.
+
+═══════════════════════════════════════════════════
+
+See you tomorrow! If you need to reschedule or have 
+questions, just reply or call [PHONE_NUMBER].
+
+Thanks!
+
+The Team at [COMPANY_NAME]
+```
+
+---
+
+## 5. POST-SERVICE THANK YOU
+
+### Subject: Thank You for Choosing [COMPANY_NAME]!
+
+```
+Hi [Customer Name],
+
+Thank you so much for trusting [COMPANY_NAME] with your 
+[service performed] today!
+
+═══════════════════════════════════════════════════
+SERVICE SUMMARY
+═══════════════════════════════════════════════════
+
+Date: [Date]
+Technician: [Technician Name]
+Service Performed: [Description]
+Work Order #: [Number]
+
+[Attach digital service report/invoice]
+
+═══════════════════════════════════════════════════
+WARRANTY INFORMATION
+═══════════════════════════════════════════════════
+
+Your work is covered by:
+• Labor Warranty: [X] years from [date]
+• Parts Warranty: [Manufacturer details]
+
+Save this email for your records. If you need warranty 
+service, mention work order #[Number].
+
+═══════════════════════════════════════════════════
+CARE TIPS
+═══════════════════════════════════════════════════
+
+To keep things running smoothly:
+
+[Customize based on service:]
+
+For Water Heaters:
+• Flush annually to remove sediment
+• Check pressure relief valve every 6 months
+• Set temperature to 120°F
+
+For HVAC Systems:
+• Change filters every 1-3 months
+• Keep outdoor units clear of debris
+• Schedule professional maintenance twice yearly
+
+For Drains:
+• Avoid pouring grease down kitchen drains
+• Use drain screens to catch hair
+• Run hot water after each use
+
+═══════════════════════════════════════════════════
+HOW DID WE DO?
+═══════════════════════════════════════════════════
+
+Your satisfaction is our priority. If anything isn't 
+perfect, please let us know immediately at 
+[PHONE_NUMBER] or reply to this email.
+
+If you were happy with our service, we'd appreciate 
+a quick Google review: [Review Link]
+
+It only takes 2 minutes and helps neighbors find 
+trustworthy contractors!
+
+═══════════════════════════════════════════════════
+STAY ON TOP OF MAINTENANCE
+═══════════════════════════════════════════════════
+
+Never worry about unexpected breakdowns! Ask us about 
+our [Plan Name] Maintenance Plan:
+
+✓ Regular tune-ups prevent costly repairs
+✓ Priority scheduling for members
+✓ Discounts on all services
+✓ Extended warranty coverage
+
+Interested? Reply or call [PHONE_NUMBER] for details.
+
+═══════════════════════════════════════════════════
+
+Thank you again for choosing us. We're always here 
+when you need us!
+
+Warm regards,
+
+[Your Name]
+[Title]
+[COMPANY_NAME]
+[PHONE_NUMBER] | [EMAIL_ADDRESS]
+
+P.S. Need us again? Mention this email and receive 
+$25 off your next non-emergency service!
+```
+
+---
+
+## 6. INVOICE / PAYMENT REMINDER
+
+### Subject: Friendly Reminder: Invoice #[Number] from [COMPANY_NAME]
+
+```
+Hi [Customer Name],
+
+I hope you're doing well!
+
+This is a friendly reminder about invoice #[Invoice Number] 
+for the [service provided] we completed on [date].
+
+═══════════════════════════════════════════════════
+INVOICE DETAILS
+═══════════════════════════════════════════════════
+
+Invoice #: [Number]
+Service Date: [Date]
+Original Amount: $[Amount]
+Amount Paid: $[Paid]
+Balance Due: $[Due]
+Due Date: [Original Due Date]
+Days Overdue: [X]
+
+[Attach invoice PDF]
+
+═══════════════════════════════════════════════════
+HOW TO PAY
+═══════════════════════════════════════════════════
+
+We make it easy:
+
+💳 Online (Fastest): [Payment Link]
+   All major credit cards accepted
+
+📱 By Phone: [PHONE_NUMBER]
+   Mon-Fri, 8 AM - 6 PM
+
+📬 By Mail:
+   [COMPANY_NAME]
+   [Address]
+   [City, State, ZIP]
+
+═══════════════════════════════════════════════════
+
+We know life gets busy—invoices sometimes slip through 
+the cracks! If you've already sent payment, please 
+disregard this reminder.
+
+Questions about the invoice? Need to discuss payment 
+arrangements? Just reply or call us at [PHONE_NUMBER]. 
+We're happy to help.
+
+Could you please take care of this by [new deadline]?
+
+Thank you for your prompt attention!
+
+Best regards,
+
+[Your Name]
+Accounts Receivable
+[COMPANY_NAME]
+[PHONE_NUMBER] | [EMAIL_ADDRESS]
+```
+
+---
+
+## 7. MAINTENANCE PLAN OFFER
+
+### Subject: Protect Your Investment: [COMPANY_NAME] Maintenance Plans
+
+```
+Hi [Customer Name],
+
+I hope you're having a great week!
+
+I'm reaching out because regular maintenance is one of 
+the smartest investments you can make in your home's 
+plumbing and HVAC systems.
+
+═══════════════════════════════════════════════════
+WHY MAINTENANCE MATTERS
+═══════════════════════════════════════════════════
+
+Think of it like changing your car's oil:
+
+✓ Prevents costly breakdowns (85% according to studies)
+✓ Extends equipment life by 30-50%
+✓ Maintains energy efficiency (lower bills!)
+✓ Keeps manufacturer warranties valid
+✓ Improves safety, especially for gas systems
+
+One emergency repair often costs MORE than 5 years 
+of preventive maintenance.
+
+═══════════════════════════════════════════════════
+OUR PLANS
+═══════════════════════════════════════════════════
+
+[BASIC PLAN] - $[X]/year
+• 1 annual tune-up visit
+• 15-point system inspection
+• 10% discount on repairs
+• Priority scheduling
+
+[PLUS PLAN] - $[X]/year ⭐ MOST POPULAR
+• 2 visits per year (Spring & Fall)
+• 25-point comprehensive inspection
+• Filter replacement (up to 4/year)
+• 15% discount on repairs
+• No after-hours fees
+• Extended labor warranty
+
+[PREMIUM PLAN] - $[X]/year
+• 4 visits per year (quarterly)
+• Full system optimization
+• Unlimited filter replacements
+• 20% discount on repairs
+• Free diagnostic visits
+• Flexible monthly payments
+
+[Attach detailed plan brochure PDF]
+
+═══════════════════════════════════════════════════
+SPECIAL OFFER
+═══════════════════════════════════════════════════
+
+Sign up before [Date] and receive:
+
+🎁 FREE smart thermostat ($150 value)
+   OR
+🎁 First year at 20% off
+   OR
+🎁 Free duct cleaning ($299 value)
+
+Plus: No cancellation fees, transferable if you sell, 
+30-day satisfaction guarantee.
+
+═══════════════════════════════════════════════════
+READY TO JOIN?
+═══════════════════════════════════════════════════
+
+Enrolling is easy:
+1️⃣ Call: [PHONE_NUMBER]
+2️⃣ Reply to this email
+3️⃣ Visit: [WEBSITE/maintenance-plan]
+
+Questions? Just reply or call. We're happy to help 
+you choose the right plan!
+
+Don't wait for a breakdown to wish you had protection.
+
+Warm regards,
+
+[Your Name]
+[Title]
+[COMPANY_NAME]
+[PHONE_NUMBER]
+
+P.S. This special offer expires [Date]. Lock in your 
+savings today!
+```
+
+---
+
+## 8. SEASONAL MAINTENANCE REMINDER
+
+### Subject: ⏰ Time for Your [Season] HVAC Tune-Up!
+
+```
+Hi [Customer Name],
+
+[Season] is almost here! Is your [HVAC system] ready?
+
+═══════════════════════════════════════════════════
+WHY SCHEDULE NOW?
+═══════════════════════════════════════════════════
+
+• Beat the rush—appointments fill up fast
+• Ensure reliable performance during peak season
+• Catch small issues before they become emergencies
+• Maintain energy efficiency (save on bills!)
+• Keep your manufacturer warranty valid
+
+═══════════════════════════════════════════════════
+WHAT'S INCLUDED
+═══════════════════════════════════════════════════
+
+Our [Season] Tune-Up includes:
+
+[For Spring AC Tune-Up:]
+✓ Inspect and clean condenser coils
+✓ Check refrigerant levels
+✓ Test electrical connections
+✓ Lubricate moving parts
+✓ Clean condensate drain
+✓ Test system operation
+✓ Replace air filter (if needed)
+✓ Provide written maintenance report
+
+[For Fall Furnace Tune-Up:]
+✓ Inspect heat exchanger for cracks
+✓ Check gas connections for leaks
+✓ Test safety controls
+✓ Clean burners and flame sensor
+✓ Lubricate blower motor
+✓ Check belt condition
+✓ Test carbon monoxide levels
+✓ Provide written maintenance report
+
+Investment: $[X] (Members save 15%!)
+
+═══════════════════════════════════════════════════
+AVAILABLE APPOINTMENTS
+═══════════════════════════════════════════════════
+
+We currently have openings:
+• [Date] at [Time]
+• [Date] at [Time]
+• [Date] at [Time]
+
+Schedule online: [Booking Link]
+Or call us: [PHONE_NUMBER]
+
+═══════════════════════════════════════════════════
+NOT A MEMBER YET?
+═══════════════════════════════════════════════════
+
+Join our [Plan Name] Maintenance Plan and get:
+✓ Two tune-ups per year (Spring & Fall)
+✓ All the benefits listed above
+✓ Plus priority scheduling, discounts, and more!
+
+Plans start at just $[X]/year. Learn more: [Link]
+
+═══════════════════════════════════════════════════
+
+Don't wait until the first cold/hot day of the season! 
+Schedule your tune-up today.
+
+Stay comfortable,
+
+The Team at [COMPANY_NAME]
+[PHONE_NUMBER] | [EMAIL_ADDRESS]
+
+P.S. Mention this email and receive $25 off your tune-up 
+if you book by [Date]!
+```
+
+---
+
+## 9. REVIEW REQUEST
+
+### Subject: How Did We Do? Share Your Experience 🌟
+
+```
+Hi [Customer Name],
+
+I hope you're having a great week!
+
+You recently had service with [COMPANY_NAME], and I 
+wanted to personally check that everything is still 
+working perfectly.
+
+═══════════════════════════════════════════════════
+WE'D LOVE YOUR FEEDBACK
+═══════════════════════════════════════════════════
+
+If you have 2 minutes, would you consider leaving us 
+a review about your experience?
+
+⭐ Leave a Google Review: [Direct Link]
+
+It's quick, easy, and helps other homeowners find 
+trustworthy contractors in our community.
+
+═══════════════════════════════════════════════════
+WHY REVIEWS MATTER
+═══════════════════════════════════════════════════
+
+As a local, family-owned business:
+
+✓ 9 out of 10 customers read reviews before hiring
+✓ Reviews help us compete against big corporations
+✓ Your feedback helps us continue improving
+✓ It takes less than 2 minutes but means the world
+
+Every review helps—whether 5 stars or constructive 
+feedback!
+
+═══════════════════════════════════════════════════
+OTHER WAYS TO REVIEW
+═══════════════════════════════════════════════════
+
+Prefer a different platform?
+📘 Facebook: [Link]
+🏠 HomeAdvisor: [Link]
+🔨 Thumbtack: [Link]
+
+Or simply reply to this email with your thoughts!
+
+═══════════════════════════════════════════════════
+LOVE US? TELL YOUR FRIENDS!
+═══════════════════════════════════════════════════
+
+Know someone who needs our services? Refer them and 
+you'll BOTH receive $50 off your next service!
+
+Just have them mention your name when they call. 
+No limits!
+
+═══════════════════════════════════════════════════
+
+Whether you leave a review or not, thank you for 
+choosing [COMPANY_NAME]. We truly appreciate your 
+business!
+
+Questions? Anything we can help with? We're always here.
+
+Warm regards,
+
+[Your Name]
+[Title]
+[COMPANY_NAME]
+[PHONE_NUMBER] | [EMAIL_ADDRESS]
+
+P.S. If there's ANYTHING about your recent service 
+that wasn't perfect, please reply and let me know 
+personally. We want to make it right!
+```
+
+---
+
+## 10. RE-ENGAGEMENT (LOST CUSTOMERS)
+
+### Subject: We Miss You! Here's $50 Off Your Next Service
+
+```
+Hi [Customer Name],
+
+It's been a while since we've seen you! 
+
+According to our records, your last service with 
+[COMPANY_NAME] was on [Date]. We hope everything has 
+been running smoothly!
+
+═══════════════════════════════════════════════════
+TIME FOR A CHECK-UP?
+═══════════════════════════════════════════════════
+
+Even if everything seems fine, regular maintenance 
+can:
+
+✓ Prevent unexpected breakdowns
+✓ Extend your equipment's lifespan
+✓ Maintain energy efficiency
+✓ Keep warranties valid
+✓ Catch small issues before they're expensive
+
+═══════════════════════════════════════════════════
+A SPECIAL WELCOME BACK OFFER
+═══════════════════════════════════════════════════
+
+We'd love to earn your business again! 
+
+Mention this email and receive:
+
+🎁 $50 OFF any non-emergency service
+   OR
+🎁 Free system health inspection ($99 value)
+
+Valid through [Date].
+
+═══════════════════════════════════════════════════
+WHAT'S NEW AT [COMPANY_NAME]
+═══════════════════════════════════════════════════
+
+Since your last visit, we've added:
+
+• [New service or capability]
+• [Extended hours or service area]
+• [New technology or equipment]
+• [Awards or recognition received]
+• [Maintenance plan improvements]
+
+Same great team, even better service!
+
+═══════════════════════════════════════════════════
+EASY SCHEDULING
+═══════════════════════════════════════════════════
+
+Ready to schedule? Choose what works best:
+
+📞 Call: [PHONE_NUMBER]
+📅 Online: [Booking Link]
+📧 Reply to this email
+
+We'll make sure to take great care of you!
+
+═══════════════════════════════════════════════════
+NOT READY YET?
+═══════════════════════════════════════════════════
+
+No problem! Here are some helpful resources:
+
+📖 DIY Maintenance Tips: [Blog Link]
+❄️ Seasonal Prep Guide: [Guide Link]
+💡 Energy Saving Tips: [Tips Link]
+
+We're here whenever you need us!
+
+═══════════════════════════════════════════════════
+
+We value you as a customer and would love the 
+opportunity to serve you again.
+
+Hope to see you soon!
+
+Warm regards,
+
+[Your Name]
+[Title]
+[COMPANY_NAME]
+[PHONE_NUMBER] | [EMAIL_ADDRESS]
+
+─────────────────────────────────────────────────────
+If you'd prefer not to receive these emails, 
+unsubscribe here: [Link]
+```
+
+---
+
+## EMAIL BEST PRACTICES
+
+### Subject Line Tips
+- Keep under 50 characters when possible
+- Personalize with customer name or location
+- Use emojis sparingly (1 max for most emails)
+- Create urgency without being spammy
+- A/B test different approaches
+
+### Design Guidelines
+- Mobile-responsive templates
+- Clear hierarchy with headers
+- Bullet points for scannability
+- Prominent call-to-action buttons
+- Consistent branding (colors, logo, fonts)
+
+### Timing Recommendations
+- Transactional emails: Send immediately
+- Reminders: 24-48 hours before appointment
+- Follow-ups: 2-3 days after service
+- Marketing: Tuesday-Thursday, 10 AM - 2 PM
+- Seasonal: 4-6 weeks before peak season
+
+### Compliance
+- Include physical mailing address
+- Provide unsubscribe option
+- Honor opt-outs promptly
+- Don't share customer data
+- Follow CAN-SPAM Act requirements
+
+### Metrics to Track
+- Open rate (aim for 20%+)
+- Click-through rate (aim for 3%+)
+- Conversion rate (appointments booked)
+- Unsubscribe rate (keep under 1%)
+- Bounce rate (keep under 2%)
